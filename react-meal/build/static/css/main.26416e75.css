@@ -1,0 +1,2 @@
+body{height:100vh}.header{text-align:center}.header h1{color:orange}.header input{border:1px solid #000;border-radius:5px;padding:5px;width:230px}.meal-container{display:flex;flex-wrap:wrap;justify-content:center;margin-top:30px}.meal-container .card{border:1px solid orange;border-radius:10px;height:450px;margin:5px;padding:5px 15px;text-align:center;width:250px}.meal-container .card h4{font-size:.8rem;font-weight:300}.meal-container .card img{border-radius:5px;height:200px;width:200px}.meal-container .card p{font-size:.8rem}
+/*# sourceMappingURL=main.26416e75.css.map*/
