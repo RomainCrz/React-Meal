@@ -1,0 +1,31 @@
+.meal-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+
+  .card {
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 5px 15px;
+    height: 450px;
+    width: 250px;
+    margin: 5px;
+    text-align: center;
+
+    h4 {
+      font-size: 0.8rem;
+      font-weight: 300;
+    }
+
+    img {
+      height: 200px;
+      width: 200px;
+      border-radius: 5px;
+    }
+
+    p {
+      font-size: 0.8rem;
+    }
+  }
+}
